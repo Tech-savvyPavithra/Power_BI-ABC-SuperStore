@@ -2,7 +2,7 @@ ABC Superstore Power BI Project
 
 This project leveraged Power BI to transform ABC Superstore’s raw sales data into actionable insights, enabling data-driven decision-making across various business areas. An interactive dashboard was developed to provide a clear view of sales performance, consumer behavior, and payment trends.
 
-🔍 Key Analytical Focus Areas:
+Key Analytical Focus Areas:
 
 ● Sales Performance: Analysis of total and segmented sales by product category, payment mode, and region.
 
@@ -12,7 +12,7 @@ This project leveraged Power BI to transform ABC Superstore’s raw sales data i
 
 ● Product Insights: Evaluation of high-performing categories, with a focus on technology products driving revenue.
 
-📊 Actionable Insights Derived:
+Actionable Insights Derived:
 
 ● Consumer Segment Trends: The consumer segment accounts for 50% of total sales, indicating a key target audience.
 
@@ -20,7 +20,7 @@ This project leveraged Power BI to transform ABC Superstore’s raw sales data i
 
 ● High-Performing Categories: Technology products generate the highest revenue, suggesting opportunities for targeted promotions and inventory management.
 
-🎛️ Interactive Dashboard Features:
+Interactive Dashboard Features:
 
 ● Segment Filtering: Drill down into data by consumer segment for detailed analysis.
 
@@ -28,13 +28,13 @@ This project leveraged Power BI to transform ABC Superstore’s raw sales data i
 
 ● Product Category Insights: Identify revenue-driving product categories like technology, furniture, and office supplies.
 
-🎨 Design and Branding Alignment:
+Design and Branding Alignment:
 
 ● Uses a clean and professional design that aligns with ABC Superstore’s branding.
 
 ● Ensures clarity, usability, and seamless navigation for business stakeholders.
 
-🚀 Business Impact:
+Business Impact:
 
 ● Enhances marketing strategies by focusing on key consumer segments.
 
@@ -42,7 +42,7 @@ This project leveraged Power BI to transform ABC Superstore’s raw sales data i
 
 ● Improves payment system efficiency by analyzing customer preferences.
 
-🛠️ Skills and Tools Utilized:
+Skills and Tools Utilized:
 
 ● Microsoft Power BI
 
